@@ -59,6 +59,8 @@ public class Teste {
 			public void accept(String s) {
 				System.out.println(s);
 			}
+			
+			
 		});
 		System.out.println("===============");
 		//palavras.forEach(s -> System.out.println(s));
